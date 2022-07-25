@@ -5,7 +5,7 @@
 <h3>  Bachelor of Technology (B. Tech) in Mechanical Engineeering From Savitribai Phule Pune University (SPPU) Maharashtra, India</h3>
 <h3> Diploma in Mechanical Engineering (DME) from Sanjivani KBP Polytechnic,Kopargaon-Maharashtra, India</h3>
 
-<h2>Certification:</h2>
+<h1>Certification:</h1>
 - SAP-MM Global Certified- <a href="https://www.credly.com/badges/f99bd2a5-e08f-446b-bc86-15c5ba638b61/public_url"> Certification URL </a>
 <h4>👨‍💻 Academic Project: Design and Fabrication of Automatic Welding Machine And SAP(MM), Data Science and Configuration of SAP System for Organizational Unit</h4>
 - Synopsis: I designed a prototype simple machine, can be operated by non-skilled workers with 
