@@ -2,8 +2,8 @@
 <h3 align="center">Welcome to my Github Profile...</h3>
 
 
-- Education: Bachelor of Technology (B.Tech) in Mechanical Engineeering From Savitribai Phule Pune University (SPPU) Maharashtra, India
- **And**
+- Education: Bachelor of Technology (B. Tech) in Mechanical Engineeering From Savitribai Phule Pune University (SPPU) Maharashtra, India
+ And 
 - Education: Diploma in Mechanical Engineering (DME) From Sanjivani KBP Polytechnic,Kopargaon-Maharashtra, India
     
 - **Aspiring as Data Scientist**
