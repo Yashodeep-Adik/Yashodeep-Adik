@@ -22,7 +22,7 @@ Data Science and Analytst
 
 - Twitter **https://twitter.com/YashodeepAdik**
 
-- 📫 Mail: **yashodeepadik111@gmail.com**
+- 📫 Mail: <a href="mailto:yashodeepadik111@gmail.com">Mail</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
