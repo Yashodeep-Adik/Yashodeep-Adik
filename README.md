@@ -2,7 +2,7 @@
 <h3 align="center">Welcome to my Github Profile...</h3>
 
 
--Education: Bachelor of Technology (B.Tech) in Mechanical Engineeering
+-**Education: Bachelor of Technology (B.Tech) in Mechanical Engineeering
 -Institute: Sanjivani College of Engineering, Kopargaon-Maharashtra, India
 -Education: Diploma in Mechanical Engineering (DME)
 -Institute: Sanjivani KBP Polytechnic,Kopargaon-Maharashtra, India            
