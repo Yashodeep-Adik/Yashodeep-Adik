@@ -20,9 +20,9 @@ Data Science and Analytst
 <h2>Reach Out Here:</h2>
 <h4><a href="www.linkedin.com/in/yashodeep-adik">LinkedIn</a></h4>
 
-- <a href="https://twitter.com/YashodeepAdik">Twitter</a>
+<h4><a href="https://twitter.com/YashodeepAdik">Twitter</a></h4>
 
-- 📫 Mail: <a href="mailto:yashodeepadik111@gmail.com">Mail</a>
+<h4>📫 Mail: <a href="mailto:yashodeepadik111@gmail.com">Mail</a></h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
