@@ -5,20 +5,18 @@
 
 <p align="left"> <a href="https://twitter.com/yashodeepadik" target="blank"><img src="https://img.shields.io/twitter/follow/yashodeepadik?logo=twitter&style=for-the-badge" alt="yashodeepadik" /></a> </p>
 
-- 👨‍💻 Academic Projects **Design and Fabrication of Automatic Welding Machine**
+- 👨‍💻 Academic Projects **Design and Fabrication of Automatic Welding Machine And SAP(MM), Data Science**
 - Description: I designed a prototype simple machine, can be operated by non-skilled workers with 
 their marginal knowledge about the welding. Through this operative machine automatic constant 
 velocity welding can be implemented, simultaneously manual welding is avoided. The idea behind 
 designing this automated welding machine is to decrease human errors, hence is to be precise and 
 accurate
 
-- 🌱 I’m currently learning **SAP(MM),Data Science**
-
-- 🤝I’m looking to collaborate on **Shri Samarth Engineers**
+- 🌱 I’m currently learning **Aspiring as Data Scientist**
 
 - LinkedIn [Link](www.linkedin.com/in/yashodeep-adik)
 
-- Projects: [Configuration of SAP System for Organizational Unit](Configuration of SAP System for Organizational Unit)
+- Project: [Configuration of SAP System for Organizational Unit](Configuration of SAP System for Organizational Unit)
 
 - Twitter **https://twitter.com/YashodeepAdik**
 
