@@ -5,7 +5,7 @@
 -Education: Bachelor of Technology (B.Tech) in Mechanical Engineeering
 -Institute: Sanjivani College of Engineering, Kopargaon-Maharashtra, India
 - **Aspiring as Data Scientist**
-- **SAP-MM Global Certified-** <href="https://www.credly.com/badges/f99bd2a5-e08f-446b-bc86-15c5ba638b61/public_url"> Certification URL </href>
+- **SAP-MM Global Certified-** <a href="https://www.credly.com/badges/f99bd2a5-e08f-446b-bc86-15c5ba638b61/public_url"> Certification URL </a>
 - 👨‍💻 Academic Projects **Design and Fabrication of Automatic Welding Machine And SAP(MM), Data Science and Configuration of SAP System for Organizational Unit**
 - Description: I designed a prototype simple machine, can be operated by non-skilled workers with 
 their marginal knowledge about the welding. Through this operative machine automatic constant 
