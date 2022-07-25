@@ -2,8 +2,8 @@
 <h3 align="center">Welcome to my Github Profile...</h3>
 
 
-- Education: Bachelor of Technology (B. Tech) in Mechanical Engineeering From Savitribai Phule Pune University (SPPU) Maharashtra, India
-- Diploma in Mechanical Engineering (DME) from Sanjivani KBP Polytechnic,Kopargaon-Maharashtra, India
+<h1>  Bachelor of Technology (B. Tech) in Mechanical Engineeering From Savitribai Phule Pune University (SPPU) Maharashtra, India</h1>
+<h1> Diploma in Mechanical Engineering (DME) from Sanjivani KBP Polytechnic,Kopargaon-Maharashtra, India</h1>
     
 - **Aspiring as Data Scientist**
 - **SAP-MM Global Certified-** <a href="https://www.credly.com/badges/f99bd2a5-e08f-446b-bc86-15c5ba638b61/public_url"> Certification URL </a>
