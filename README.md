@@ -24,7 +24,7 @@ accurate.</h4>
 <h5>-Student Representative in Internal Quality Assurance Cell (IQAC) of Institute</h5>
 <h5>-Student Trainer (Alumini Speaker) in Sanjivani K B P Polytechnic Kopargaon</h5>
 
-<h1>Area Of Interest:</h1>
+<h1>Area of Interest:</h1>
 Data Science and  Data Analyst
 
 <h1>Reach out Here:</h1>
