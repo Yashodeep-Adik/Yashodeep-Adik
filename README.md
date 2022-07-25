@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I am Yash</h1>
+<h1 align="center">Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29"> , I am Yash</h1>
 <h3 align="center">Welcome to my Github Profile...</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashodeep-adik&label=Profile%20views&color=0e75b6&style=flat" alt="yashodeep-adik" /> </p>
