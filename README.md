@@ -2,10 +2,10 @@
 <h3 align="center">Welcome to my Github Profile...</h3>
 
 
--**Education: Bachelor of Technology (B.Tech) in Mechanical Engineeering
--Institute: Sanjivani College of Engineering, Kopargaon-Maharashtra, India
--Education: Diploma in Mechanical Engineering (DME)
--Institute: Sanjivani KBP Polytechnic,Kopargaon-Maharashtra, India            
+- Education: Bachelor of Technology (B.Tech) in Mechanical Engineeering
+- Institute: Sanjivani College of Engineering, Kopargaon-Maharashtra, India
+- Education: Diploma in Mechanical Engineering (DME)
+- Institute: Sanjivani KBP Polytechnic,Kopargaon-Maharashtra, India           
 - **Aspiring as Data Scientist**
 - **SAP-MM Global Certified-** <a href="https://www.credly.com/badges/f99bd2a5-e08f-446b-bc86-15c5ba638b61/public_url"> Certification URL </a>
 - 👨‍💻 Academic Projects **Design and Fabrication of Automatic Welding Machine And SAP(MM), Data Science and Configuration of SAP System for Organizational Unit**
