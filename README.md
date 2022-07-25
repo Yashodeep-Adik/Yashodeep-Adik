@@ -18,9 +18,9 @@ accurate
 Data Science and Analytst
 
 <h2>Reach Out Here:</h2>
-- LinkedIn (www.linkedin.com/in/yashodeep-adik)
+- <a href="www.linkedin.com/in/yashodeep-adik">LinkedIn</a>
 
-- Twitter **https://twitter.com/YashodeepAdik**
+- <a href="https://twitter.com/YashodeepAdik">Twitter</a>
 
 - 📫 Mail: <a href="mailto:yashodeepadik111@gmail.com">Mail</a>
 
