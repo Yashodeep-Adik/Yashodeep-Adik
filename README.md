@@ -1,18 +1,20 @@
 <h1 align="center">Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29"> , I'm Yashodeep!</h1>
 <h3 align="center">Welcome to my Github Profile...</h3>
 
+
+-Education: Bachelor of Technology (B.Tech) in Mechanical Engineeering
+-Institute: Sanjivani College of Engineering, Kopargaon-Maharashtra, Pune
+- **Aspiring as Data Scientist**
+
+- 👨‍💻 Academic Projects **Design and Fabrication of Automatic Welding Machine And SAP(MM), Data Science**
+[Configuration of SAP System for Organizational Unit](Configuration of SAP System for Organizational Unit)
 - Description: I designed a prototype simple machine, can be operated by non-skilled workers with 
 their marginal knowledge about the welding. Through this operative machine automatic constant 
 velocity welding can be implemented, simultaneously manual welding is avoided. The idea behind 
 designing this automated welding machine is to decrease human errors, hence is to be precise and 
 accurate
 
-- **Aspiring as Data Scientist**
--Education: Bachelor of Technology (B.Tech) in Mechanical Engineeering
-
 - LinkedIn [Link](www.linkedin.com/in/yashodeep-adik)
-
-- Project: [Configuration of SAP System for Organizational Unit](Configuration of SAP System for Organizational Unit)
 
 - Twitter **https://twitter.com/YashodeepAdik**
 
@@ -26,7 +28,6 @@ accurate
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashodeep-adik&show_icons=true&locale=en" alt="yashodeep-adik" /></p>
 
-- 👨‍💻 Academic Projects **Design and Fabrication of Automatic Welding Machine And SAP(MM), Data Science**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashodeep-adik&label=Profile%20views&color=0e75b6&style=flat" alt="yashodeep-adik" /> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashodeep-adik&" alt="yashodeep-adik" /></p>
