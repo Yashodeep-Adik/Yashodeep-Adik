@@ -15,7 +15,7 @@ designing this automated welding machine is to decrease human errors, hence is t
 accurate</h4>
 
 <h1>Internships:</h1>
-<h4>Yeshshree Press Comps Private Limited Aurangabad (An Leading Bajaj Auto Ltd. Vendor Co.)</h4>
+<h4>-Yeshshree Press Comps Private Limited Aurangabad (An Leading Bajaj Auto Ltd. Vendor Co.)</h4>
 <h5>Worked on Project: Configuration of SAP System for Organizational Unit</h5>
 
 <h2>Area Of Interest:</h2>
