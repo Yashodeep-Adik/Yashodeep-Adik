@@ -6,8 +6,8 @@
 <h3> Diploma in Mechanical Engineering (DME) from Sanjivani KBP Polytechnic,Kopargaon-Maharashtra, India</h3>
 
 <h2>Certification:</h2>
-- **SAP-MM Global Certified-** <a href="https://www.credly.com/badges/f99bd2a5-e08f-446b-bc86-15c5ba638b61/public_url"> Certification URL </a>
-- 👨‍💻 Academic Projects **Design and Fabrication of Automatic Welding Machine And SAP(MM), Data Science and Configuration of SAP System for Organizational Unit**
+- ** SAP-MM Global Certified-** <a href="https://www.credly.com/badges/f99bd2a5-e08f-446b-bc86-15c5ba638b61/public_url"> Certification URL </a>
+- 👨‍💻 Academic Projects ** Design and Fabrication of Automatic Welding Machine And SAP(MM), Data Science and Configuration of SAP System for Organizational Unit **
 - Synopsis: I designed a prototype simple machine, can be operated by non-skilled workers with 
 their marginal knowledge about the welding. Through this operative machine automatic constant 
 velocity welding can be implemented, simultaneously manual welding is avoided. The idea behind 
@@ -18,7 +18,7 @@ accurate
 Data Science and Analytst
 
 <h2>Reach Out Here:</h2>
-- LinkedIn [Link](www.linkedin.com/in/yashodeep-adik)
+- LinkedIn (www.linkedin.com/in/yashodeep-adik)
 
 - Twitter **https://twitter.com/YashodeepAdik**
 
