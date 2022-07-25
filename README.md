@@ -24,10 +24,10 @@ accurate</h4>
 <h5>-Student Representative in Internal Quality Assurance Cell (IQAC) of Institute</h5>
 <h5>-Student Trainer (Alumini Speaker) in Sanjivani K B P Polytechnic Kopargaon</h5>
 
-<h2>Area Of Interest:</h2>
+<h1>Area Of Interest:</h1>
 Data Science and  Data Analyst
 
-<h2>Reach out Here:</h2>
+<h1>Reach out Here:</h1>
 <h4>LinkedIn: www.linkedin.com/in/yashodeep-adik </h4>
 
 <h4>Twitter: https://twitter.com/YashodeepAdik </h4>
