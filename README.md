@@ -1,8 +1,6 @@
 <h1 align="center">Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29"> , I'm Yashodeep!</h1>
 <h3 align="center">Welcome to my Github Profile...</h3>
 
-<p align="left"> <a href="https://twitter.com/yashodeepadik" target="blank"><img src="https://img.shields.io/twitter/follow/yashodeepadik?logo=twitter&style=for-the-badge" alt="yashodeepadik" /></a> </p>
-
 - Description: I designed a prototype simple machine, can be operated by non-skilled workers with 
 their marginal knowledge about the welding. Through this operative machine automatic constant 
 velocity welding can be implemented, simultaneously manual welding is avoided. The idea behind 
