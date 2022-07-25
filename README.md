@@ -28,16 +28,11 @@ accurate</h4>
 Data Science and  Data Analyst
 
 <h1>Reach out Here:</h1>
-<h4>LinkedIn: www.linkedin.com/in/yashodeep-adik </h4>
-
-<h4>Twitter: https://twitter.com/YashodeepAdik </h4>
-
-<h4>📫 Mail: <a href="mailto:yashodeepadik111@gmail.com">Mail</a></h4>
-
 <p align="left">
 <a href="https://twitter.com/yashodeepadik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yashodeepadik" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/yashodeep adik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yashodeep adik" height="30" width="40" /></a>
 </p>
+<h4>📫 Mail: <a href="mailto:yashodeepadik111@gmail.com">Mail</a></h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashodeep-adik&label=Profile%20views&color=0e75b6&style=flat" alt="yashodeep-adik" /> </p>
 
