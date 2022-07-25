@@ -9,10 +9,10 @@
 - SAP-MM Global Certified- <a href="https://www.credly.com/badges/f99bd2a5-e08f-446b-bc86-15c5ba638b61/public_url"> Certification URL </a>
 <h4>👨‍💻 Academic Project: Design and Fabrication of Automatic Welding Machine And SAP(MM), Data Science and Configuration of SAP System for Organizational Unit</h4>
 - Synopsis: I designed a prototype simple machine, can be operated by non-skilled workers with 
-their marginal knowledge about the welding. Through this operative machine automatic constant 
+<h4>their marginal knowledge about the welding. Through this operative machine automatic constant 
 velocity welding can be implemented, simultaneously manual welding is avoided. The idea behind 
 designing this automated welding machine is to decrease human errors, hence is to be precise and 
-accurate
+accurate</h4>
 
 <h2>Area Of Interest:</h2>
 Data Science and  Data Analyst
