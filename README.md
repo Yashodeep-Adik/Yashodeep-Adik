@@ -22,7 +22,7 @@ accurate
 
 - Twitter **https://twitter.com/YashodeepAdik**
 
-- 📫 How to reach me **yashodeepadik111@gmail.com**
+- 📫 Mail: **yashodeepadik111@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
