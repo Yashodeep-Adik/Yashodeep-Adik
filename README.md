@@ -15,9 +15,9 @@ designing this automated welding machine is to decrease human errors, hence is t
 accurate
 
 <h2>Area Of Interest:</h2>
-Data Science and  Data Analytst
+Data Science and  Data Analyst
 
-<h2>Reach Out Here:</h2>
+<h2>Reach out Here:</h2>
 <h4>LinkedIn: www.linkedin.com/in/yashodeep-adik </h4>
 
 <h4>Twitter: https://twitter.com/YashodeepAdik </h4>
