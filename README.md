@@ -30,6 +30,6 @@ Data Science and Analytst
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashodeep-adik&label=Profile%20views&color=0e75b6&style=flat" alt="yashodeep-adik" /> </p>
-© 2022 Dragon Realms- Made by Aryan Gore :https://github.com/Ravanger101
+
 
 
