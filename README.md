@@ -14,6 +14,9 @@ velocity welding can be implemented, simultaneously manual welding is avoided. T
 designing this automated welding machine is to decrease human errors, hence is to be precise and 
 accurate</h4>
 
+<h1>Internships:</h1>
+<h4>Yeshshree Press Comps Private Limited Aurangabad (An Leading Bajaj Auto Ltd. Vendor Co.)</h4>
+
 <h2>Area Of Interest:</h2>
 Data Science and  Data Analyst
 
