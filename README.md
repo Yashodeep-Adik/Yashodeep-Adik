@@ -33,7 +33,6 @@ Data Science and  Data Analyst
 <a href="https://linkedin.com/in/yashodeep adik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yashodeep adik" height="30" width="40" /></a>
 <a href="mailto:yashodeepadik111@gmail.com" target="blank"><img align="center" src="icons8-gmail.svg" alt="yashodeep adik" height="30" width="40" /></a>
 </p>
-<h4>📫 Mail: <a href="mailto:yashodeepadik111@gmail.com">Mail</a></h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashodeep-adik&label=Profile%20views&color=0e75b6&style=flat" alt="yashodeep-adik" /> </p>
 
