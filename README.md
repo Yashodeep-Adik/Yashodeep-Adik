@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashodeep-adik&label=Profile%20views&color=0e75b6&style=flat" alt="yashodeep-adik" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashodeep-adik" alt="yashodeep-adik" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/yashodeepadik" target="blank"><img src="https://img.shields.io/twitter/follow/yashodeepadik?logo=twitter&style=for-the-badge" alt="yashodeepadik" /></a> </p>
 
 - 👨‍💻 I’m currently working on **Design and Fabrication of Automatic Welding Machine**
