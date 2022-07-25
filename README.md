@@ -17,6 +17,8 @@ accurate</h4>
 <h1>Internships:</h1>
 <h4>-Yeshshree Press Comps Private Limited Aurangabad (An Leading Bajaj Auto Ltd. Vendor Co.)</h4>
 <h5>Worked on Project: Configuration of SAP System for Organizational Unit</h5>
+<h4>- Shri Samarth Engineers Aurangabad</h4>
+<h5>Completed Industrial Project</h5>
 
 <h2>Area Of Interest:</h2>
 Data Science and  Data Analyst
