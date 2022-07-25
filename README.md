@@ -5,8 +5,7 @@
 <h3>  Bachelor of Technology (B. Tech) in Mechanical Engineeering From Savitribai Phule Pune University (SPPU) Maharashtra, India</h3>
 <h3> Diploma in Mechanical Engineering (DME) from Sanjivani KBP Polytechnic,Kopargaon-Maharashtra, India</h3>
 
-<h2>Skillset</h2>
-    
+<h2>Skillset:</h2>
 - **Aspiring as Data Scientist**
 - **SAP-MM Global Certified-** <a href="https://www.credly.com/badges/f99bd2a5-e08f-446b-bc86-15c5ba638b61/public_url"> Certification URL </a>
 - 👨‍💻 Academic Projects **Design and Fabrication of Automatic Welding Machine And SAP(MM), Data Science and Configuration of SAP System for Organizational Unit**
