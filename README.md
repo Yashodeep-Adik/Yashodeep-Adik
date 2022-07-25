@@ -22,7 +22,7 @@ accurate</h4>
 
 <h1>Extra Curricular Activites:</h1>
 <h5>-Student Representative in Internal Quality Assurance Cell (IQAC) of Institute</h5>
-<h5>Student Trainer (Alumini Speaker) in Sanjivani K B P Polytechnic Kopargaon.</h5>
+<h5>-Student Trainer (Alumini Speaker) in Sanjivani K B P Polytechnic Kopargaon</h5>
 
 <h2>Area Of Interest:</h2>
 Data Science and  Data Analyst
