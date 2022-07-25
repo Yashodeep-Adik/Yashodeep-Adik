@@ -7,7 +7,7 @@
 
 <h1>Certification:</h1>
 <h4>SAP-MM Global Certified- <a href="https://www.credly.com/badges/f99bd2a5-e08f-446b-bc86-15c5ba638b61/public_url"> Certification URL </a></h4>
-<h1>👨‍💻 Academic Project:</h1> <h4>Design and Fabrication of Automatic Welding Machine And SAP(MM), Data Science and Configuration of SAP System for Organizational Unit</h4>
+<h1>👨‍💻 Academic Project:</h1> <h4>Design and Fabrication of Automatic Welding Machine</h4>
 <h4>Synopsis: I designed a prototype simple machine, can be operated by non-skilled workers with 
 their marginal knowledge about the welding. Through this operative machine automatic constant 
 velocity welding can be implemented, simultaneously manual welding is avoided. The idea behind 
